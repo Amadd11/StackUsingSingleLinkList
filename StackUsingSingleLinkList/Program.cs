@@ -23,6 +23,7 @@ namespace StackUsingSingleLinkList
         {
             top = null;
         }
+        bool empty()
     }
     internal class Program
     {
