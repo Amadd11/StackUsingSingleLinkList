@@ -79,6 +79,7 @@ namespace StackUsingSingleLinkList
                         Console.Write("\nEnter a number :");
                         int num = Convert.ToInt32(Console.ReadLine());
                         s.push(num);
+
                         break;
                     case '2':
                         if (s.empty())
